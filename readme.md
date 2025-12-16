@@ -4,16 +4,16 @@
 <b>Discipline | <b>Computer Science and Engineering 
 :--|:--|
 <b> Lab | <b> Virtual Lab
-<b> Experiment|     <b> : Experiment 1 : Integrate a virtual multimeter to show voltage and current at different points in the circuit.
+<b> Experiment|     <b> : Experiment 1 :  Develop a VR tool for calculating the numerical aperture from the light cone.
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Akash Kumar
+<b>Name of Developer | <b> Shorya Mahajan
 :--|:--|
 <b> Rajkiya Engineering college Banda | <b>  
-<b> 2407340130006@recbanda.ac.in|     <b>  
+<b> 2407340130058@recbanda.ac.in|     <b>  
 <b> Information Technology |  
 
 ### Contributors List
